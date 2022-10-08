@@ -15,7 +15,7 @@ download backup
 
 preview
 <h1 align="center">Hi 👋, I'm Injamam ul Haque</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A enthusiast coder interested in AI/ML. Got experience with spreadsheets and Photoshops as well. Interested in learning new things. </h3>
 
 - 🔭 I’m currently working on **Student Performance Monitoring System DBMS**
 

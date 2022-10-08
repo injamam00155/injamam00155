@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-12733
-Fork on GitHub
-3231
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Injamam ul Haque</h1>
 <h3 align="center">A enthusiast coder interested in AI/ML. Got experience with spreadsheets and Photoshops as well. Interested in learning new things. </h3>
 
